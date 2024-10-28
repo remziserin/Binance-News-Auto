@@ -1,16 +1,16 @@
 {
-  "name": "telegramhaberbot",
+  "name": "delist",
   "version": "1.0.0",
   "description": "",
-  "main": "delistNEWs.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
 	"start":"node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-    "dependencies": {
+  "dependencies": {
     "axios": "^1.7.7",
     "dotenv": "^16.4.5"
   }
