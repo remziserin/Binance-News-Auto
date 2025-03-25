@@ -15,8 +15,8 @@ Dieser Node.js-Bot 🤖 überwacht die Binance-Ankündigungen und sendet eine Be
 
 ```bash
 # Repository klonen
-git clone https://github.com/remziserin/binance-delisting-bot.git
-cd binance-delisting-bot
+git clone https://github.com/remziserin/Binance-News-Auto.git
+cd Binance-News-Auto
 
 # Abhängigkeiten installieren
 npm install
